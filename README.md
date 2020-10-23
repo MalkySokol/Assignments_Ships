@@ -1,2 +1,2 @@
 # Assignments_Ships
-uses inheritance as59
+uses inheritance, composition and object oriented design
